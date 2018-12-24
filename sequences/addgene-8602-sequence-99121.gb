@@ -1,0 +1,32 @@
+LOCUS       Exported                 693 bp ds-DNA     linear   SYN 14-AUG-2018
+DEFINITION  synthetic linear DNA
+ACCESSION   .
+VERSION     .
+KEYWORDS    pGEX-2T PTP-1B
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 693)
+  TITLE     PTP-1B plasmids
+REFERENCE   2  (bases 1 to 693)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Aug 14, 2018 from SnapGene Server 1.1.58
+            http://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..693
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+ORIGIN
+        1 acctggagcc cccacccgag catatccccc cacctccccg gccacccaaa cgaatcctgg
+       61 agccacacaa tgggaaatgc agggagttct tcccaaatca ccagtgggtg aaggaagaga
+      121 cccaggagga taaagactgc cccatcaagg aagaaaaagg aagcccctta aatgccgcac
+      181 cctacggcat cgaaagcatg agtcaagaca ctgaagttag aagtcgggtc gtggggggaa
+      241 gtcttcgagg tgcccaggct gcctccccag ccaaagggga gccgtcactg cccgagaagg
+      301 acgaggacca tgcactgagt tactggaagc ccttcctggt caacatgtgc gtggctacgg
+      361 tcctcacggc cggcgcttac ctctgctaca gggtatgttt ccactgacag acgcgctggc
+      421 gagatgctcg tgtgcagaga gcactggccg ctagcccgat ggtaggattc agttctgtgg
+      481 tgcatctgag ccagtctcag aagaaacaga ccaaaggttt ttaaagtctg gaactgtgga
+      541 agggctaaca agagaattaa ggatcgatgc actggggttt taaggagccc tctggtccca
+      601 agaatataag agtctaatct cagggcctta acctattcag gagtaagtag agaaaatgcc
+      661 aaatacgtct gtttctctct ctcttttttt ttt
+//
