@@ -1,9 +1,8 @@
-Supplemental Material for
-
-## Methods for the recombinant expression of active tyrosine kinase domains: guidelines and pitfalls
+### Methods for the recombinant expression of active tyrosine kinase domains: guidelines and pitfalls
 
 by Diaz Galicia et al. 2019
 
+## Supplemental Material
 
 **Protocols** -- see [methods.pdf](methods.pdf)
 
