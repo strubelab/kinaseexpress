@@ -8,4 +8,4 @@ by Diaz Galicia et al. 2019
 
 **Sequences** -- see [sequences folder](sequences) for genbank-formatted files
 
-**Supplemental figures** -- see [supplement.pdf](supplemental_material.pdf)
+**Supplemental figures** -- see [supplement.pdf](supplement.pdf)
